@@ -1,0 +1,10 @@
+.gallery__post-label {
+  background-color: var(--blue);
+  display: inline-block;
+  margin: 0;
+  position: absolute;
+  top: 30px;
+  left: 20px;
+  padding: 4px 13px;
+  border-radius: 3px;
+}

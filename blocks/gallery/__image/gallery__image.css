@@ -1,0 +1,4 @@
+.gallery__image {
+  position: absolute;
+  z-index: -1;
+}

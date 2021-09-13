@@ -1,0 +1,10 @@
+.gallery__post {
+  position: relative;
+  color: #fff;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-end;
+  border-radius: 5px;
+  overflow: hidden;
+  background: linear-gradient(transparent 66%, #000);
+}
