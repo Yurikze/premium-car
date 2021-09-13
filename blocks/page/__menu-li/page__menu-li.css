@@ -1,0 +1,9 @@
+.page__menu-li {
+  margin-right: 39px;
+  font-size: 14px;
+  line-height: calc(18 / 14);
+}
+
+.page__menu-li:last-of-type {
+  margin-right: 0;
+}

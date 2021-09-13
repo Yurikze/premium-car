@@ -1,0 +1,9 @@
+.header__search {
+  background: url(../../../images/search.svg);
+  width: 16px;
+  height: 17px;
+  border: none;
+  background-color: transparent;
+  padding: 0;
+  background-size: cover;
+}

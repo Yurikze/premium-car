@@ -1,0 +1,8 @@
+.page__logo-car {
+  background-color: var(--blue);
+  width: 39px;
+  height: 23px;
+  padding: 3px 5px;
+  box-sizing: border-box;
+  margin-left: 6px;
+}

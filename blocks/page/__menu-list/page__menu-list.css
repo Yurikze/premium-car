@@ -1,0 +1,6 @@
+.page__menu-list {
+  list-style: none;
+  display: flex;
+  color: #fff;
+  padding: 0;
+}
