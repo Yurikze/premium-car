@@ -1,0 +1,7 @@
+.content__meta {
+  margin: 0 0 14px;
+  color: var(--grey);
+  font-style: italic;
+  font-size: 14px;
+  line-height: calc(18/14);
+}

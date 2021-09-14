@@ -1,0 +1,6 @@
+.content__title {
+  margin: 22px 0 15px;
+  font-size: 25px;
+  line-height: 1.12;
+  color: var(--black);
+}

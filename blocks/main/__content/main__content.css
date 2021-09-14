@@ -1,0 +1,10 @@
+.main__content {
+  display: grid;
+  grid-template-columns: 1fr 270px;
+  grid-template-rows: auto;
+  grid-template-areas: 
+  "gallery gallery"
+  "content sidebar"
+  "popular popular";
+  gap: 80px 130px;
+}
