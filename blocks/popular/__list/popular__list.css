@@ -1,0 +1,7 @@
+.popular__list {
+  list-style: none;
+  padding: 0;
+  display: flex;
+  margin: 0;
+  gap: 30px;
+}

@@ -1,0 +1,6 @@
+.popular__headline {
+  color: var(--balck);
+  font-size: 30px;
+  line-height: calc(39 / 30);
+  margin: 0 0 27px;
+}

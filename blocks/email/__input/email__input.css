@@ -1,0 +1,9 @@
+.email__input {
+  padding: 17px 15px;
+  color: #AEB3BB;
+  border: 1px solid #E5E5E5;
+  border-radius: 3px;
+  margin-bottom: 10px;
+  width: 100%;
+  box-sizing: border-box;
+}

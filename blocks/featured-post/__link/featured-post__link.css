@@ -1,0 +1,12 @@
+.featured-post__link {
+  display: block;
+  text-decoration: none;
+  background-color: #232323;
+  color: #fff;
+  padding: 17px 82px;
+  box-sizing: border-box;
+  font-weight: bold;
+  font-size: 14px;
+  line-height: calc(18/14);
+  border-radius: 5px;
+}

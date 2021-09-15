@@ -1,0 +1,8 @@
+.tags__li {
+  padding: 7px 16px;
+  border-radius: 3px;
+  background: #EBEBEB;
+  font-size: 14px;
+  line-height: calc(18/14);
+  color: var(--black);
+}

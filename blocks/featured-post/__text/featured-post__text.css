@@ -1,0 +1,6 @@
+.featured-post__text {
+  font-size: 15px;
+  line-height: 1.67;
+  color: var(--grey);
+  margin: 0 0 21px;
+}

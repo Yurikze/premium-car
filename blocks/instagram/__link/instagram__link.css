@@ -1,0 +1,13 @@
+.instagram__link {
+  display: block;
+  border-radius: 3px;
+  padding: 17px 74px;
+  text-align: center;
+  color: #fff;
+  font-weight: bold;
+  background-color: #000;
+  font-size: 14px;
+  line-height: calc(18/14);
+  display: flex;
+  align-items: center;
+}

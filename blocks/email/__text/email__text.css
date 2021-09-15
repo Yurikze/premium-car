@@ -1,0 +1,7 @@
+.email__text {
+  margin: 0 0 27px;
+  font-size: 14px;
+  line-height: calc(24 / 14);
+  color: var(--grey);
+  width: 252px;
+}
