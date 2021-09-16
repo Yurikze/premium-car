@@ -1,0 +1,10 @@
+.footer__recent-li {
+  display: flex;
+  margin-bottom: 25px;
+  align-items: flex-start;
+  justify-content: space-between;
+}
+
+.footer__recent-li:last-of-type {
+  margin-bottom: 0;
+}
