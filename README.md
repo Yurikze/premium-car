@@ -13,4 +13,4 @@
 
 **GitHub Pages**
 
-- [Ссылка на сайт на GitHub Pages](https://yurikze.github.io/russian-travel/)
+- [Ссылка на сайт на GitHub Pages](https://yurikze.github.io/premium-car/)
